@@ -19,6 +19,6 @@
     "tests"
   ],
   "scripts": {
-      "postinstall": "./bower-postinstall.sh"
+      "postinstall": "pwd && ./bower-postinstall.sh"
   }
 }
