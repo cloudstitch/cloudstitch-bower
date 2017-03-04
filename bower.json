@@ -1,0 +1,21 @@
+{
+  "name": "cloudstitch-bower",
+  "authors": [
+    "Edward Benson <edward.benson@gmail.com>"
+  ],
+  "description": "Test package that depends on CLI",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
